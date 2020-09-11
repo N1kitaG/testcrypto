@@ -1,4 +1,6 @@
 {
+  "name": "PSR7/WhatsAppDecorators",
+  "version": "1",
   "repositories": [
     {
       "type": "vcs",
