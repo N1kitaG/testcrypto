@@ -8,8 +8,6 @@
 
 namespace N1kitaG\Psr7;
 
-require_once 'Decorator.php';
-
 use Psr\Http\Message\StreamInterface;
 use N1kitaG\Psr7\Decorator;
 

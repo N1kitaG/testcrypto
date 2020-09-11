@@ -6,9 +6,7 @@
  * Time: 13:35
  */
 
-require_once 'EncryptionDecorator.php';
-require_once 'DecryptionDecorator.php';
-require_once 'StreamDecorator.php';
+require __DIR__ . '/vendor/autoload.php';
 
 use N1kitaG\Psr7\EncryptionDecorator;
 use N1kitaG\Psr7\DecryptionDecorator;
